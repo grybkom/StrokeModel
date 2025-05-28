@@ -41,6 +41,11 @@ and some can be modified.
     - avg_glucose_level: average blood glucose level 
     - smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
     - stroke: 1 if the individual suffered a stroke and 0 if not
+  - Entries containing NA and Unknown were removed
+  - Categorical features were converted to binary integers using [Pandas get_dummies function](https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html)
+  - Data is not balanced with most enties being labeled as not experiencing stroke
+     ![Stroke Percentage](https://github.com/user-attachments/assets/f01fa3fc-c431-4f3b-9703-7e6960cd737d)
+
 
 ## Reference
 U.S. Department of Health and Human Services. (2023, June 12). Stroke. 
