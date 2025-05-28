@@ -1,4 +1,4 @@
-# StrokeModel
+# Stroke Prediction Models
 Machine Learning with Stroke Data
 ---
 
