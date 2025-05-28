@@ -44,7 +44,10 @@ and some can be modified.
   - Entries containing NA and Unknown were removed
   - Categorical features were converted to binary integers using [Pandas get_dummies function](https://pandas.pydata.org/docs/reference/api/pandas.get_dummies.html)
   - Data is not balanced with most enties being labeled as not experiencing stroke
-     ![Stroke Percentage](https://github.com/user-attachments/assets/f01fa3fc-c431-4f3b-9703-7e6960cd737d)
+
+![stroke_percentage](https://github.com/user-attachments/assets/cc2ed9d0-6060-4f09-841a-1be7e225c037)
+
+![age_stroke_distribution](https://github.com/user-attachments/assets/2030d29b-fd0c-497c-a79c-23d8cbb6dfb3)
 
 
 ## Reference
