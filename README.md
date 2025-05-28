@@ -2,8 +2,8 @@
 Machine Learning with Stroke Data
 ---
 
-This project will focus on building a stroke prediction model. 
-A stroke is when there is an abrupt disruption of blood flow to the brain. 
+The focus of this project is to build supervised models that predict stroke. 
+Stroke is when there is an abrupt disruption of blood flow to the brain. 
 This is caused by blood vessel blockage, narrowing or bursting. 
 According to the Nation Institutes of Health (NIH), nearly 800,000 Americans suffer a 
 stroke every year, with some of these cases being fatal. 
