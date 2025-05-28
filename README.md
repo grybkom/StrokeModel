@@ -21,9 +21,9 @@ and some can be modified.
 - StrokeDataCleaning - Downloads, explores, and cleans raw stroke data.
 - Features before cleaning
   
-  0. id: unique identifier
-  1. gender: "Male", "Female" or "Other"
-  2. age: individual's age
+  0) id: unique identifier
+  1) gender: "Male", "Female" or "Other"
+  2) age: individual's age
   3. hypertension: 1 if the individual has hypertension 0 if not
   4. heart_disease: 1 if the individual has heart disease 0 if not
   5. ever_married: "No" or "Yes"
