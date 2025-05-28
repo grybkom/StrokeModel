@@ -1,5 +1,6 @@
 # StrokeModel
 Machine Learning with Stroke Data
+---
 
 This project will focus on building a stroke prediction model. 
 A stroke is when there is an abrupt disruption of blood flow to the brain. 
