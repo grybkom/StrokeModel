@@ -18,21 +18,21 @@ and some can be modified.
 - Stroke Dataset is available through Kaggle: 
   - Fedesoriano. (2020). Stroke Prediction Dataset. 
   - Retrieved from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset.
-- StrokeDataCleaning - Downloads, explores, and cleans raw stroke data.
-- Features before cleaning
+- StrokeDataCleaning.ipynb - Downloads, explores, and cleans raw stroke data.
+  - Features before cleaning
   
-0) id: unique identifier
-1) gender: "Male", "Female" or "Other"
-2) age: individual's age
-3) hypertension: 1 if the individual has hypertension 0 if not
-4) heart_disease: 1 if the individual has heart disease 0 if not
-5) ever_married: "No" or "Yes"
-6) work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"
-7) bmi: body mass index
-8) Residence_type: "Rural" or "Urban"
-9) avg_glucose_level: average blood glucose level 
-10) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
-11) stroke: 1 if the individual suffered a stroke and 0 if not
+    0) id: unique identifier
+    1) gender: "Male", "Female" or "Other"
+    2) age: individual's age
+    3) hypertension: 1 if the individual has hypertension 0 if not
+    4) heart_disease: 1 if the individual has heart disease 0 if not
+    5) ever_married: "No" or "Yes"
+    6) work_type: "children", "Govt_jov", "Never_worked", "Private" or "Self-employed"
+    7) bmi: body mass index
+    8) Residence_type: "Rural" or "Urban"
+    9) avg_glucose_level: average blood glucose level 
+    10) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
+    11) stroke: 1 if the individual suffered a stroke and 0 if not
 
 ## Reference
 U.S. Department of Health and Human Services. (2023, June 12). Stroke. 
