@@ -19,7 +19,8 @@ and some can be modified.
   - Fedesoriano. (2020). Stroke Prediction Dataset. 
   - Retrieved from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset.
 - StrokeDataCleaning - Downloads, explores, and cleans raw stroke data.
-- Features
+- Features before cleaning
+  
   0. id: unique identifier
   1. gender: "Male", "Female" or "Other"
   2. age: individual's age
