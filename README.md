@@ -13,12 +13,21 @@ and may include cognitive decline, movement problems and emotional dysregulation
 The NIH lists several risk factors for stroke, some of which are unmodifiable, 
 and some can be modified. 
 
+## Language
+- Python
+  - [NumPy](https://numpy.org/)
+  - [pandas](https://pandas.pydata.org/)
+  - [statsmodels](https://www.statsmodels.org/stable/index.html)
+  - [Scikit-learn](https://scikit-learn.org/stable/)
+  - [Seaborn](https://seaborn.pydata.org/)
+  - [Matplotlib](https://matplotlib.org/)
+
 ## Data 
 
 - Stroke Dataset is available through Kaggle: 
   - Fedesoriano. (2020). Stroke Prediction Dataset. 
   - Retrieved from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset.
-- StrokeDataCleaning.ipynb - Downloads, explores, and cleans raw stroke data.
+- StrokeDataCleaning.ipynb - Downloads, explores, and cleans raw stroke data. Returns cleaned data in CSV format, 'stroke_clean.csv'.
   - Features before cleaning
     - id: unique identifier
     - gender: "Male", "Female" or "Other"
