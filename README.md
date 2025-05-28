@@ -2,6 +2,7 @@
 Machine Learning with Stroke Data
 ---
 
+## Background
 The focus of this project is to build supervised models that predict stroke. 
 Stroke is when there is an abrupt disruption of blood flow to the brain. 
 This is caused by blood vessel blockage, narrowing or bursting. 
@@ -12,11 +13,15 @@ and may include cognitive decline, movement problems and emotional dysregulation
 The NIH lists several risk factors for stroke, some of which are unmodifiable, 
 and some can be modified. 
 
+## Data 
+
+- Stroke Dataset is available through Kaggle: 
+  - Fedesoriano. (2020). Stroke Prediction Dataset. 
+  - Retrieved from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset.
+
 Information Citation:
 U.S. Department of Health and Human Services. (2023, June 12). Stroke. 
 National Institute of Neurological Disorders and Stroke
 https://www.ninds.nih.gov/health-information/disorders/stroke 
 
-Stroke Dataset
-Fedesoriano. (2020). Stroke Prediction Dataset. 
-Retrieved from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset.
+
