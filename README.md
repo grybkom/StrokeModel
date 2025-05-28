@@ -27,7 +27,7 @@ and some can be modified.
 - Stroke Dataset is available through Kaggle: 
   - Fedesoriano. (2020). Stroke Prediction Dataset. 
   - Retrieved from https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset.
-- StrokeDataCleaning.ipynb - Downloads, explores, and cleans raw stroke data 'healthcare-dataset-stroke-data.csv'. Returns cleaned data in CSV format, 'stroke_clean.csv'.
+- **StrokeDataCleaning.ipynb** - Downloads, explores, and cleans raw stroke data 'healthcare-dataset-stroke-data.csv'. Returns cleaned data in CSV format, 'stroke_clean.csv'.
   - Features before cleaning
     - id: unique identifier
     - gender: "Male", "Female" or "Other"
