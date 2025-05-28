@@ -46,8 +46,9 @@ and some can be modified.
   - Data is not balanced with most enties being labeled as not experiencing stroke
 
 ![stroke_percentage](https://github.com/user-attachments/assets/cc2ed9d0-6060-4f09-841a-1be7e225c037)
+![age_stroke_distribution](https://github.com/user-attachments/assets/f2c1869a-aae7-46dd-b361-2f7a4b3af679)
 
-![age_stroke_distribution](https://github.com/user-attachments/assets/2030d29b-fd0c-497c-a79c-23d8cbb6dfb3)
+
 
 
 ## Reference
