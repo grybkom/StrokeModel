@@ -1,5 +1,5 @@
 # Stroke Prediction Models
-Machine Learning with Stroke Data
+Machine Learning Models for Stroke Prediction
 ---
 
 ## Background
