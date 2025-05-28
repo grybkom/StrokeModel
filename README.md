@@ -48,7 +48,16 @@ and some can be modified.
 ![stroke_percentage](https://github.com/user-attachments/assets/cc2ed9d0-6060-4f09-841a-1be7e225c037)
 ![age_stroke_distribution](https://github.com/user-attachments/assets/f2c1869a-aae7-46dd-b361-2f7a4b3af679)
 
+## Models
+- Different Models were built and their perfromance mertics were compaired, Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Random Forest, and XGBoosted (XGB).
+- Synthetic Minority Over-sampling Technique (SMOTE) was applied to the training data to compensate for the class imbalance and all of the models were assess again with the over-sampled data.
 
+## Results
+- Some of the models, such as logistical regression, achieved a very high accuracy with the original (not over-sampled) data. However this is because these models were simply labeling everything ans not stroke.
+
+- The best model as far as detecting stroke was the SVM trained on over-sampled data. 
+![confussion_matrix_svm](https://github.com/user-attachments/assets/7f44464f-7996-4324-9474-555c178f41c5)
+![confussion_matrix_svm_smote](https://github.com/user-attachments/assets/90baeee6-65df-4616-aa9b-083b0949ae23)
 
 
 ## Reference
