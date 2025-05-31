@@ -49,7 +49,7 @@ and some can be modified.
 ![age_stroke_distribution](https://github.com/user-attachments/assets/f2c1869a-aae7-46dd-b361-2f7a4b3af679)
 
 ## Models
-- StrokeModels.ipynb - loads cleaned data, 'stroke_clean.csv' and performs predictive modeling.
+- **StrokeModels.ipynb** - loads cleaned data, 'stroke_clean.csv' and performs predictive modeling.
 - Different Models were built and their performance metrics were compared, Logistic Regression, K-Nearest Neighbors (KNN), Support Vector Machine (SVM), Random Forest, and XGBoosted (XGB).
 - Synthetic Minority Over-sampling Technique (SMOTE) was applied to the training data to compensate for the class imbalance and all the models were assess again with the over-sampled data.
 
