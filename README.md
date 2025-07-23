@@ -46,7 +46,8 @@ and some can be modified.
   - Data is not balanced with most enties being labeled as not experiencing stroke.
 
 ![stroke_percentage](https://github.com/user-attachments/assets/cc2ed9d0-6060-4f09-841a-1be7e225c037)
-![age_stroke_distribution](https://github.com/user-attachments/assets/f2c1869a-aae7-46dd-b361-2f7a4b3af679)
+<img width="1148" height="548" alt="age_stroke_distribution" src="https://github.com/user-attachments/assets/49d8f146-6aac-4952-8e23-393ac928bb57" />
+
 
 ## Models
 - **StrokeModels.ipynb** - loads cleaned data, 'stroke_clean.csv' and performs predictive modeling.
