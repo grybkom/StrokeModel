@@ -70,8 +70,8 @@ and some can be modified.
 ## To Do
 - [ ] Assess class weighting to address class imbalance.
 - [ ] Assess [SMOTEENN](https://imbalanced-learn.org/stable/references/generated/imblearn.combine.SMOTEENN.html) to address class imbalance.
-- [ ] Apply grid search for hyperparameters max_depth, learning_rate, and n_estimators for XGB model.
-- [ ] Apply grid search for hyperparameters C, gamma, and kernel for SVM model. 
+- [X] Apply grid search for hyperparameters max_depth, learning_rate, and n_estimators for XGB model.
+- [X] Apply grid search for hyperparameters C, gamma, and kernel for SVM model. 
 
 ## Reference
 U.S. Department of Health and Human Services. (2023, June 12). Stroke. 
