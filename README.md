@@ -47,7 +47,11 @@ and some can be modified.
 
 ![stroke_percentage](https://github.com/user-attachments/assets/cc2ed9d0-6060-4f09-841a-1be7e225c037)
 <img width="1148" height="548" alt="age_stroke_distribution" src="https://github.com/user-attachments/assets/49d8f146-6aac-4952-8e23-393ac928bb57" />
+<img width="1721" height="821" alt="age_stroke_percentage" src="https://github.com/user-attachments/assets/6ce9776a-67de-4e12-88c5-fa0c7fd8c8de" />
 
+<img width="943" height="704" alt="stroke_by_heartdisease" src="https://github.com/user-attachments/assets/15fdce51-de16-4160-8c3e-25e4cf3fb8bd" />
+
+<img width="943" height="704" alt="stroke_by_hypertension" src="https://github.com/user-attachments/assets/82d23153-bc9e-4366-a273-9a5499fc3600" />
 
 ## Models
 - **StrokeModels.ipynb** - loads cleaned data, 'stroke_clean.csv' and performs predictive modeling.
